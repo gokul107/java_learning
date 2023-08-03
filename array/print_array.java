@@ -1,4 +1,4 @@
-class Apporach2_array
+class Print_array
 {
     public static void main(String[] args)
     {

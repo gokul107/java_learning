@@ -1,4 +1,4 @@
-class Apporach4_Array
+class Char_Array
 {
     public static void main(String[] args) 
 	{
