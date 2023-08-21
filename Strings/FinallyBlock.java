@@ -5,7 +5,7 @@ class FinallyBlock
 	{
 		FileWriter fw=null;
 		try
-		{
+		{   
 			fw=new FileWriter("xyz.txt");
 
 			fw.write(98);
